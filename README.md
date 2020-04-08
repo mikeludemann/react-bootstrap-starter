@@ -16,3 +16,29 @@ The package jquery and popper is required for bootstrap 4.x functions & Co.
 ```
 npm install
 ```
+
+## Command
+
+### Starting the app
+
+```
+npm run start
+```
+
+### Building the app
+
+```
+npm run build
+```
+
+### Starting all tests in this app
+
+```
+npm run test
+```
+
+### Eject the app
+
+```
+npm run eject
+```
